@@ -1,6 +1,6 @@
 # platzimusic
 
-> Proyecto del curso de Introduccion a Vue.js de Platzi
+> Proyecto del curso de Introduccion a Vue.js de Platzi [ver aqui](https://kegovc.github.io/PlatziMusic/index.html)
 
 ## Build Setup
 

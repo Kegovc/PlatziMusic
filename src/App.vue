@@ -1,7 +1,7 @@
 <template lang="pug">
   #app
     spinner(v-show="loading")
-    img(src=".https://kegovc.github.io/PlatziMusic/logo.png")
+    img(src="https://kegovc.github.io/PlatziMusic/dist/logo.png")
     h1
      | {{msg}}
      a(:href="url" class="author" target="_blanck") {{ author }}
